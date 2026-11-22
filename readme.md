@@ -25,6 +25,7 @@
 * [Betapage](https://betapage.co/) – Daily startup listings.
 * [PeerPush](https://peerpush.net/) – Product discovery platform for indie makers.
 * [Nick Launches](https://nicklaunches.com/) – Showcase a new product, reach other builders, and earn a backlink.
+* [Postlazy](https://postlazy.com/) – Daily launch site for SaaS that drafts your launch page from your URL, with a free followed link for verified makers.
 
 ---
 
